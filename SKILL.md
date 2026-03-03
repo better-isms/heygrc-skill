@@ -6,7 +6,7 @@ user_invocable: true
 
 # heygrc — GRC Expert Advisor
 
-A Claude Code skill by [Better ISMS](https://betterisms.com). Brings the ISMS Copilot personality into your Claude Code session — warm trusted advisor, actionable GRC guidance, and document generation capability.
+A Claude Code skill by [Better ISMS](https://betterisms.co). Brings the [ISMS Copilot](https://ismscopilot.com) personality into your Claude Code session — warm trusted advisor, actionable GRC guidance, and document generation capability.
 
 ## Argument Parsing
 
