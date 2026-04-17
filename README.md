@@ -1,6 +1,6 @@
 # heygrc
 
-A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill by [Better ISMS](https://betterisms.com) that brings GRC expert advisory into your terminal.
+A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill by [Better ISMS](https://betterisms.co) that brings GRC expert advisory into your terminal.
 
 Type `/heygrc` and Claude adopts the ISMS Copilot personality — a warm, trusted advisor for information security compliance. Get actionable guidance on ISO 27001, SOC 2, PCI DSS, GDPR, DORA, NIS 2, ISO 42001, EU AI Act, and more.
 
@@ -66,4 +66,4 @@ MIT
 
 ---
 
-Built with care by [Better ISMS](https://betterisms.com)
+Built with care by [Better ISMS](https://betterisms.co)
