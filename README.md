@@ -1,3 +1,5 @@
+> **Archived.** Use ISMS Copilot inside your AI with the connector at https://www.ismscopilot.com/mcp (every plan, including Free), and find GRC skills at https://github.com/better-isms/grcskills.
+
 # heygrc
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill by [Better ISMS](https://betterisms.co) that brings GRC expert advisory into your terminal.
